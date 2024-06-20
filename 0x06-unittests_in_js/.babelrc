@@ -1,0 +1,3 @@
+{
+    "presets": [["env", {"exclude": ["transorm-regenerator"]}]]
+}
